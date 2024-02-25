@@ -1,9 +1,4 @@
 
-Bu bir Object Oriented Programming dersi projesi olup bir öğrenci ödev sistemi yapılması istenmiştir.
-
-Projede swing kütüphanesi kullanılarak gui tasarımı yapılmıştır.
-
-
 1- ilk başta hem parent hem child olarak kaydolunuz
 2- parent girişi yapıp en soldan exam ekleyiniz
 3- exit tuşuyla login ekranına geri dönüp child olarak giriş yapınız ve başlattığınız exam'ı çözünüz
